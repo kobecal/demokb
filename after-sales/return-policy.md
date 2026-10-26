@@ -1,7 +1,7 @@
 ---
 title: "退换货政策"
 domain: "after-sales"
-updated_at: "2026-10-26T06:16:17Z"
+updated_at: "2026-10-26T08:06:51Z"
 ---
 
 # 退换货政策
@@ -22,8 +22,8 @@ B 商品 14 天内可免费退换，需保留外包装。
 
 本政策自发布之日起生效。
 
+一段补充说明
+
 一段待驳回的说明：这一段稍后会被驳回
 
 一段说明：驳回后仍可继续编辑
-
-![上传图片](http://localhost:9000/metakb/published/media/ebf4f635a17d10d6eb46ba680b70142419aa3220f228001a036d311a22ee9d2a.png)
